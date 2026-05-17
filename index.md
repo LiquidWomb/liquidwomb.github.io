@@ -25,7 +25,7 @@ layout: null
       padding: 2rem;}
     .container {
       padding-top: 10rem;
-      width: 700px;
+      width: 1000px;
       margin: 0 auto 0 10%;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
