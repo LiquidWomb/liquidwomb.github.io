@@ -5,15 +5,13 @@ layout: null
 <!-- <!DOCTYPE html> -->
 <html>
 <head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Kumar+One+Outline&display=swap" rel="stylesheet">
+
   <title>spoken forms</title>
   <style>
     img { max-width: 100%; display: block; margin: 4rem 0; }
     h1 {
       text-align: left;
-      font-family: "Kumar One Outline", "Times New Roman", serif;
+      font-family: "Times New Roman", serif;
       font-size: 6rem;
       color: black;
       margin-top: 6rem;}
