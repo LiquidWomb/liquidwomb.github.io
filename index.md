@@ -23,9 +23,10 @@ layout: null
       margin-top: 1rem;}
     .container {
       width: 50%;
-      margin: 0 auto;}
+      margin: 0 auto 0 10%;}
     @media (max-width: 600px) {
-    .container { width: 95%; }
+    .container { margin: 0 auto;
+        width: 95%; }
     .title { width: 95%;}   
     h1 { font-size: 1.5rem; }
   </style>
