@@ -8,18 +8,18 @@ layout: null
 
   <title>spoken forms</title>
   <style>
-    body {  background-color: #f0f0f0; }
+    body {  background-color: #97a6ba; }
     img { max-width: 100%; display: block; margin: 4rem 0; }
     h1 {
       text-align: left;
       font-family: "Times New Roman", Times, serif;
       font-weight: 100;
-      font-size: 5rem;
+      font-size: 4rem;
       color: #121212;
       margin-left: 2%;
       margin-top: 1rem;}
     .container {
-      width: 80%;
+      width: 60%;
       margin: 0 auto;
       }
   </style>
