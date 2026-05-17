@@ -16,8 +16,8 @@ layout: null
       font-weight: 100;
       font-size: 5rem;
       color: #121212;
-      margin-left: 3%;
-      margin-top: 6rem;}
+      margin-left: 2%;
+      margin-top: 1rem;}
     .container {
       width: 80%;
       margin: 0 auto;
