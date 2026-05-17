@@ -29,11 +29,13 @@ layout: null
       margin: 0 auto 0 10%;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
-        width: 95%; }
+        width: 95%;
+        padding-top: 6rem}
     .title { margin: 0 auto;
         width: 100%;} 
     .title img {
       width: 50%;
+      margin-left: 2.5%;
     }
   </style>
 </head>
