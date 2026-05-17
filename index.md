@@ -5,7 +5,7 @@ layout: null
 <!-- <!DOCTYPE html> -->
 <html>
 <head>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>spoken forms</title>
   <style>
     body {  background-color: #f2f2f2; }
@@ -19,8 +19,10 @@ layout: null
       margin-top: 2rem;}
     .container {
       width: 50%;
-      margin: 0 auto;
-      }
+      margin: 0 auto;}
+    @media (max-width: 600px) {
+    .container { width: 95%; }
+    h1 { font-size: 1.5rem; }
   </style>
 </head>
 <body>
