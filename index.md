@@ -13,8 +13,8 @@ layout: null
     h1 {
       text-align: left;
       font-family: "Times New Roman", Times, serif;
-      font-weight: 300;
-      font-size: 6rem;
+      font-weight: 100;
+      font-size: 7rem;
       color: #121212;
       margin-left: 5%;
       margin-top: 6rem;}
