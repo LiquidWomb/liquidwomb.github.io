@@ -31,9 +31,11 @@ layout: null
     .container { margin: 0 auto;
         width: 95%; }
     .title { margin: 0 auto;
-        width: 100%;} 
+        width: 95%;} 
     .title img {
       width: 50%;
+      position: fixed;
+      left: 0;
     }
   </style>
 </head>
