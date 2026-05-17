@@ -7,7 +7,7 @@ layout: null
 <head>
   <title>spoken forms</title>
   <style>
-    img { max-width: 60%; display: block; margin: 4rem 0; }
+    img { max-width: 100%; display: block; margin: 4rem 0; }
     h1 {
       text-align: left;
       font-family: Garamond, serif;
@@ -15,7 +15,7 @@ layout: null
       color: black;
       margin-top: 6rem;}
     .container {
-      width: 100%;
+      width: 80%;
       margin: 0 auto;
       }
   </style>
