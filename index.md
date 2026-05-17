@@ -11,7 +11,9 @@ layout: null
     body {  background-color: #121212; }
     img { max-width: 100%; display: block; margin: 4rem 0; }
     .title {
+      position: fixed;
       width: 20%;
+      background-color: #121212; 
       margin-left: 10%;
       margin-top: 1rem;}
     .container {
