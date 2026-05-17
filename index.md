@@ -34,7 +34,7 @@ layout: null
     .title { margin: 0 auto;
         width: 100%;} 
     .title img {
-      margin-left: 0;
+      padding: 0;
       width: 50%;
     }
   </style>
