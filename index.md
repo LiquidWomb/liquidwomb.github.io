@@ -11,7 +11,7 @@ layout: null
   </style>
 </head>
 <body>
-  <img src="/assets/photos/photo1.jpg">
+  <img src="/assets/photos/aljezur rocks.jpg">
   <img src="/assets/photos/photo2.jpg">
   <img src="/assets/photos/photo3.jpg">
   <img src="/assets/photos/photo4.jpg">
