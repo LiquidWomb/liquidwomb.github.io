@@ -11,7 +11,7 @@ layout: null
     h1 {
       text-align: left;
       font-family: Garamond, serif;
-      font-size: 3rem;
+      font-size: 6rem;
       color: black;}
     
   </style>
