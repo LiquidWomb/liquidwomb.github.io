@@ -11,6 +11,10 @@ layout: null
   </style>
 </head>
 <body>
+  <span class="hover-text">Hover over me!
+  <span class="tooltip-text">This is the hidden hover text.</span>
+</span>
+
   <img src="/assets/photos/aljezur rocks.jpeg">
   <img src="/assets/photos/Green Rock.png">
   <img src="/assets/photos/Anacacho Infrared.jpeg">
