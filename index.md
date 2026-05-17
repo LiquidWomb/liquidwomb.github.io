@@ -8,7 +8,7 @@ layout: null
 
   <title>spoken forms</title>
   <style>
-    body {  background-color: #97a6ba; }
+    body {  background-color: #d1d7e0; }
     img { max-width: 100%; display: block; margin: 4rem 0; }
     h1 {
       text-align: left;
@@ -19,7 +19,7 @@ layout: null
       margin-left: 2%;
       margin-top: 1rem;}
     .container {
-      width: 60%;
+      width: 70%;
       margin: 0 auto;
       }
   </style>
