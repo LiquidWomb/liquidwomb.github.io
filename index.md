@@ -13,7 +13,6 @@ layout: null
     h1 {
       text-align: left;
       font-family: "Times New Roman", Times, serif;
-      font-weight: 500;
       font-size: 4rem;
       color: #121212;
       margin-left: 2%;
