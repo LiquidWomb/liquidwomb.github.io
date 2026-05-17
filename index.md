@@ -10,7 +10,7 @@ layout: null
     img { max-width: 60%; display: block; margin: 4rem auto; }
     h1 {
       text-align: left;
-      font-family: Georgia, serif;
+      font-family: Garamond, serif;
       font-size: 3rem;
       color: black;}
     
