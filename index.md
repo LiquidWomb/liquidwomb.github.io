@@ -8,7 +8,9 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>spoken forms</title>
   <style>
-    body {  background-color: #121212; }
+    body {  background-color: #121212; 
+         margin: 0;
+         padding: 0;}
     img { max-width: 100%; display: block; margin: 4rem 0; }
     .title {
       position: fixed;
