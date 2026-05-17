@@ -11,10 +11,10 @@ layout: null
   </style>
 </head>
 <body>
-  <img src="/assets/photos/aljezur rocks.jpg">
-  <img src="/assets/photos/photo2.jpg">
-  <img src="/assets/photos/photo3.jpg">
-  <img src="/assets/photos/photo4.jpg">
-  <img src="/assets/photos/photo5.jpg">
+  <img src="/assets/photos/aljezur rocks.jpeg">
+  <img src="/assets/photos/Green Rock.png">
+  <img src="/assets/photos/Anacacho Infrared.jpeg">
+  <img src="/assets/photos/lenseless.jpeg">
+  <img src="/assets/photos/toledo succulent bloom.png">
 </body>
 </html>
