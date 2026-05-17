@@ -43,7 +43,7 @@ layout: null
   <img src="/assets/photos/aljezur rocks.jpeg" title="Aljezur">
   <img src="/assets/photos/Anacacho Infrared.jpeg" title="Infrared">
   <img src="/assets/photos/lenseless.jpeg" title="lenseless">
-    <iframe style="border: 0; width: 100%; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2656256454/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/to-see-the-blade">To See the Blade by Spoken Forms</a></iframe>
+    <iframe style="border: 0; width: 100%; height: 100%;" src="https://bandcamp.com/EmbeddedPlayer/track=2656256454/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/to-see-the-blade">To See the Blade by Spoken Forms</a></iframe>
   <img src="/assets/photos/Green Rock.png">
   <img src="/assets/photos/toledo succulent bloom.png">
   </div>
