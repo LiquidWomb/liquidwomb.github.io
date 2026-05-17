@@ -12,6 +12,7 @@ layout: null
 </head>
 <body>
   <h1>spoken forms</h1>
+  <iframe style="border: 0; width: 700px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2656544641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/heavy-like-blood">Heavy Like Blood by Spoken Forms</a></iframe>
   <img src="/assets/photos/aljezur rocks.jpeg" title="Aljezur">
   <img src="/assets/photos/Green Rock.png">
   <img src="/assets/photos/Anacacho Infrared.jpeg" title="Infrared">
