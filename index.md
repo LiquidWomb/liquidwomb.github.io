@@ -21,7 +21,7 @@ layout: null
       margin-left: 5%;
       display: block;}
     .container {
-      padding-top: 5rem;
+      padding-top: 10rem;
       width: 700px;
       margin: 0 auto 0 10%;}
     @media (max-width: 600px) {
@@ -29,6 +29,8 @@ layout: null
         width: 95%; }
     .title { margin: 0 auto;
         width: 100%;} 
+    .title img {
+      width: 50%;
     }
   </style>
 </head>
