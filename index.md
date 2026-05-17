@@ -14,7 +14,7 @@ layout: null
       position: fixed;
       width: 20%;
       background-color: #121212; 
-      margin-left: 10%;
+      margin-left: 5%;
       margin-top: 1rem;}
     .container {
       width: 700px;
