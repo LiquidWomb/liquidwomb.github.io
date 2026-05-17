@@ -15,7 +15,7 @@ layout: null
       color: black;
       margin-top: 6rem;}
     .container {
-      width: 80%;
+      width: 100%;
       margin: 0 auto;
       }
   </style>
