@@ -31,7 +31,7 @@ layout: null
     .container { margin: 0 auto;
         width: 95%; }
     .title { margin: 0 auto;
-        width: 95%;} 
+        width: 100%;} 
     .title img {
       width: 50%;
     }
