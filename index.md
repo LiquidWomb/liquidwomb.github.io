@@ -14,6 +14,7 @@ layout: null
       font-family: "Times New Roman", serif;
       font-size: 6rem;
       color: black;
+      margin: 2rem auto;
       margin-top: 6rem;}
     .container {
       width: 80%;
