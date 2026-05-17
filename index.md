@@ -14,9 +14,12 @@ layout: null
       position: fixed;
       width: 100%;
       background-color: #121212; 
-      margin-left: 5%;
-      margin-top: 1rem;
+      margin-top: 0rem;
       z-index: 100;}
+    .title img {
+      width: 20%;
+      margin-left: 5%;
+      display: block;}
     .container {
       padding-top: 5rem;
       width: 700px;
