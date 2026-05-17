@@ -26,7 +26,7 @@ layout: null
 </head>
 <body>
   <div class="title">
-  <img src="/assets/photos/Spoken Forms Logo White.png">
+  <img src="/assets/photos/Spoken Forms Logo White Left Aligned.png">
   </div>
   <div class="container">
     <img src="/assets/photos/MotivesCanvas.gif"> 
