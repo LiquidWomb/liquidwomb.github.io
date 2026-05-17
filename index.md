@@ -14,9 +14,9 @@ layout: null
       text-align: left;
       font-family: "Times New Roman", Times, serif;
       font-weight: 100;
-      font-size: 7rem;
+      font-size: 5rem;
       color: #121212;
-      margin-left: 5%;
+      margin-left: 3%;
       margin-top: 6rem;}
     .container {
       width: 80%;
