@@ -17,6 +17,10 @@ layout: null
       color: #f2f2f2;
       margin-left: 2%;
       margin-top: 2rem;}
+    .title {
+      width: 20%;
+      margin-left: 2%;
+      margin-top: 1rem;}
     .container {
       width: 50%;
       margin: 0 auto;}
@@ -27,7 +31,9 @@ layout: null
 </head>
 <body>
 <!--  <h1>spoken forms</h1> -->
+  <div class="title">
   <img src="/assets/photos/Spoken Forms Logo White.png">
+  </div>
   <div class="container">
   <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2656544641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/heavy-like-blood">Heavy Like Blood by Spoken Forms</a></iframe>
   <img src="/assets/photos/aljezur rocks.jpeg" title="Aljezur">
