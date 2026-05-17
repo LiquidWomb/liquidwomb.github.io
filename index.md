@@ -30,7 +30,7 @@ layout: null
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;
-        padding-top: 4rem}
+        padding-top: 3rem}
     .title { margin: 0 auto;
         width: 100%;} 
     .title img {
