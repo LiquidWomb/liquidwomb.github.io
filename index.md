@@ -2,12 +2,12 @@
 layout: null
 ---
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html>
 <head>
   <title>spoken forms</title>
   <style>
-    img { max-width: 80%; display: block; margin: 2rem auto; }
+    img { max-width: 70%; display: block; margin: 4rem auto; }
   </style>
 </head>
 <body>
