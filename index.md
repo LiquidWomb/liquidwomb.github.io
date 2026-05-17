@@ -27,7 +27,8 @@ layout: null
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%; }
-    .title { width: 95%;}   
+    .title { margin: 0 auto;
+        width: 95%;}   
     h1 { font-size: 1.5rem; }
   </style>
 </head>
