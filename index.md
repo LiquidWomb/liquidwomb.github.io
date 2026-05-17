@@ -19,7 +19,7 @@ layout: null
       margin-top: 2rem;}
     .title {
       width: 20%;
-      margin-left: 2%;
+      margin-left: 10%;
       margin-top: 1rem;}
     .container {
       width: 50%;
