@@ -13,13 +13,13 @@ layout: null
     h1 {
       text-align: left;
       font-family: "Times New Roman", Times, serif;
-      font-weight: 300;
+      font-weight: 400;
       font-size: 4rem;
       color: #121212;
       margin-left: 2%;
       margin-top: 2rem;}
     .container {
-      width: 65%;
+      width: 60%;
       margin: 0 auto;
       }
   </style>
