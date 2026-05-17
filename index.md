@@ -26,7 +26,7 @@ layout: null
       margin: 0 auto;}
     @media (max-width: 600px) {
     .container { width: 95%; }
-    .title { width: 60%;}   
+    .title { width: 95%;}   
     h1 { font-size: 1.5rem; }
   </style>
 </head>
