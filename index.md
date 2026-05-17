@@ -12,7 +12,7 @@ layout: null
     img { max-width: 100%; display: block; margin: 4rem 0; }
     .title {
       position: fixed;
-      width: 20%;
+      width: 100%;
       background-color: #121212; 
       margin-left: 5%;
       margin-top: 1rem;
