@@ -8,13 +8,13 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>spoken forms</title>
   <style>
-    body {  background-color: #f2f2f2; }
+    body {  background-color: #121212; }
     img { max-width: 100%; display: block; margin: 4rem 0; }
     h1 {
       text-align: left;
       font-family: "Times New Roman", Times, serif;
       font-size: 4rem;
-      color: #121212;
+      color: #f2f2f2;
       margin-left: 2%;
       margin-top: 2rem;}
     .container {
@@ -28,7 +28,7 @@ layout: null
 <body>
   <h1>spoken forms</h1>
   <div class="container">
-  <iframe style="border: 0; width: 700px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2656544641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/heavy-like-blood">Heavy Like Blood by Spoken Forms</a></iframe>
+  <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2656544641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/heavy-like-blood">Heavy Like Blood by Spoken Forms</a></iframe>
   <img src="/assets/photos/aljezur rocks.jpeg" title="Aljezur">
   <img src="/assets/photos/Anacacho Infrared.jpeg" title="Infrared">
   <img src="/assets/photos/lenseless.jpeg" title="lenseless">
