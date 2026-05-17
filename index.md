@@ -14,7 +14,6 @@ layout: null
       position: fixed;
       width: 100%;
       background-color: #121212; 
-      margin-top: 0rem;
       z-index: 100;}
     .title img {
       width: 20%;
