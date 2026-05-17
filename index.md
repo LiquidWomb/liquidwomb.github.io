@@ -20,7 +20,9 @@ layout: null
     .title img {
       width: 20%;
       margin-left: 5%;
-      display: block;}
+      display: block;
+      margin: 0;
+      padding: 0;}
     .container {
       padding-top: 10rem;
       width: 700px;
