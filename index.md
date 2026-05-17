@@ -13,8 +13,8 @@ layout: null
       text-align: left;
       font-family: "Times New Roman", serif;
       font-size: 6rem;
-      color: black;
-      margin-left: 10%;
+      color: #cccccc;
+      margin-left: 5%;
       margin-top: 6rem;}
     .container {
       width: 80%;
@@ -23,6 +23,7 @@ layout: null
   </style>
 </head>
 <body>
+  background-color: #121212;
   <h1>spoken forms</h1>
   <div class="container">
   <iframe style="border: 0; width: 700px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2656544641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://spokenforms.bandcamp.com/track/heavy-like-blood">Heavy Like Blood by Spoken Forms</a></iframe>
