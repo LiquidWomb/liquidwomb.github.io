@@ -37,8 +37,8 @@ layout: null
       padding-left: 2.5%;
       padding-bottom: 5%;
       padding-top: 5%;
-      width: 50%;
-    }
+      width: 50%; }
+    } 
   </style>
 </head>
 <body>
