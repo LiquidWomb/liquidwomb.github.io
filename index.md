@@ -10,15 +10,6 @@ layout: null
   <style>
     body {  background-color: #121212; }
     img { max-width: 100%; display: block; margin: 4rem 0; }
-<!-- 
-    h1 {
-      text-align: left;
-      font-family: "Times New Roman", Times, serif;
-      font-size: 4rem;
-      color: #f2f2f2;
-      margin-left: 2%;
-      margin-top: 2rem;} 
--->
     .title {
       width: 20%;
       margin-left: 10%;
@@ -30,12 +21,10 @@ layout: null
     .container { margin: 0 auto;
         width: 95%; }
     .title { margin: 0 auto;
-        width: 95%;}   
-    h1 { font-size: 1.5rem; }
+        width: 95%;} 
   </style>
 </head>
 <body>
-<!--  <h1>spoken forms</h1> -->
   <div class="title">
   <img src="/assets/photos/Spoken Forms Logo White.png">
   </div>
