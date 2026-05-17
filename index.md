@@ -22,7 +22,7 @@ layout: null
       margin-left: 10%;
       margin-top: 1rem;}
     .container {
-      width: 50%;
+      width: 700px;
       margin: 0 auto 0 10%;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
