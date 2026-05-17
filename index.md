@@ -15,8 +15,10 @@ layout: null
       width: 20%;
       background-color: #121212; 
       margin-left: 5%;
-      margin-top: 1rem;}
+      margin-top: 1rem;
+      z-index: 100;}
     .container {
+      padding-top: 5rem;
       width: 700px;
       margin: 0 auto 0 10%;}
     @media (max-width: 600px) {
