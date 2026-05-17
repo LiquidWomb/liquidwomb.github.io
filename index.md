@@ -34,7 +34,6 @@ layout: null
         width: 100%;} 
     .title img {
       width: 50%;
-      padding: 10%;
     }
   </style>
 </head>
